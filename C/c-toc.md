@@ -1,6 +1,7 @@
 # C:
 ### Hello World:
-[Link to Code](./helloworld.c)   
+[Link to Code](./helloworld.c)     
+[EXE](./a.out)     
 ```sh 
 #include <stdio.h>
 int main() {
