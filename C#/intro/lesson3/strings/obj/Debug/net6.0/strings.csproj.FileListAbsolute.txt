@@ -1,0 +1,15 @@
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/bin/Debug/net6.0/strings
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/bin/Debug/net6.0/strings.deps.json
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/bin/Debug/net6.0/strings.runtimeconfig.json
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/bin/Debug/net6.0/strings.dll
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/bin/Debug/net6.0/strings.pdb
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.csproj.AssemblyReference.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.AssemblyInfoInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.AssemblyInfo.cs
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.csproj.CoreCompileInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.dll
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/refint/strings.dll
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.pdb
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/strings.genruntimeconfig.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson3/strings/obj/Debug/net6.0/ref/strings.dll
