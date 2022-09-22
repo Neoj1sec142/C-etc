@@ -1,0 +1,33 @@
+# C# Notes:
+[Link](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+
+### Intro:
+1. [] - [Intro]()       
+2. [] - [Hello-World]()       
+3. [] - [Strings]()       
+4. [] - [Searching Strings]()       
+5. [] - [Numbers & Integer Math]()       
+6. [] - [Numbers & Integer Precision]()       
+7. [] - [Numbers & Decimals]()       
+8. [] - [Braches (if)]()       
+9. [] - [Hello-World Explained]()       
+10. [] - [Loops]()       
+11. [] - [Combining Branches & Loops]()       
+12. [] - [Arrays, Lists, & Collections]()       
+13. [] - [Sort Search & Index Lists]()       
+14. [] - [List of Other Types]()       
+15. [] - [Debugging]()       
+16. [] - [OOP Obj & Classes]()       
+17. [] - [OOP Methods & Members]()       
+18. [] - [OOP Methods & Exceptions]()       
+19. [] - [OOP Catching Exceptions]()       
+***      
+### Intro to Lanugage Integrated Query (LINQ):
+1. [] - [Intro to LINQ]()       
+2. [] - [LINQ Query Syntax]()       
+3. [] - [Query Compisition and Execution]()       
+4. [] - [Entity Framework and Remote Data]()       
+5. [] - [Asynchronous Task Compisition]()       
+6. [] - [Handling Asynchronous Exceptions]()       
+7. [] - [Distingish Async & Multithreading]()       
+8. [] - [Intro to Async, Await, and Tasks]()       
