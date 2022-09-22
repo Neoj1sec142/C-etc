@@ -1,0 +1,15 @@
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/bin/Debug/net6.0/hello_world
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/bin/Debug/net6.0/hello_world.deps.json
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/bin/Debug/net6.0/hello_world.runtimeconfig.json
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/bin/Debug/net6.0/hello_world.dll
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/bin/Debug/net6.0/hello_world.pdb
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.csproj.AssemblyReference.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.AssemblyInfoInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.AssemblyInfo.cs
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.csproj.CoreCompileInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.dll
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/refint/hello_world.dll
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.pdb
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/hello_world.genruntimeconfig.cache
+/Users/neo/.mine/practice/C-etc/C#/intro/lesson2/hello_world/obj/Debug/net6.0/ref/hello_world.dll
