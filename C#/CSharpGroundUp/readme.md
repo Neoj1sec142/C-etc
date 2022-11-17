@@ -2,8 +2,8 @@
 102 Videos - [Link](https://www.youtube.com/playlist?list=PLAC325451207E3105)
 1. Introduction to C# - [x]
 2. Reading and writing to a console - [x]
-3. C# Built-in data types - []
-4. C# String data type - []
+3. C# Built-in data types - [x]
+4. C# String data type - [x]
 5. Operators in C# - []
 6. Nullable Types in C# - []
 7. Datatype conversions - []

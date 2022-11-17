@@ -20,3 +20,5 @@ dotnet run
 * String Type
 * Integral Types - sbyte, byte, short, ushort, int, uint, long, ulong, char (examples below)
 ![Integral types](./assets/intg.png)
+***    
+![ESC Sequences](./assets/esc.png)
