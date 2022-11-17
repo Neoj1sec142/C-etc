@@ -4,8 +4,8 @@
 2. Reading and writing to a console - [x]: 1
 3. C# Built-in data types - [x]: 2
 4. C# String data type - [x]: 2
-5. Operators in C# - []: 3
-6. Nullable Types in C# - []
+5. Operators in C# - [x]: 3
+6. Nullable Types in C# - [x]: 3
 7. Datatype conversions - []
 8. Arrays in C# - []
 9. Comments - []
