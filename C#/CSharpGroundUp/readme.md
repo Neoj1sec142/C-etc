@@ -1,7 +1,7 @@
 # C# Course from the Ground Up:
 102 Videos - [Link](https://www.youtube.com/playlist?list=PLAC325451207E3105)
-1. Introduction to C# - []
-2. Reading and writing to a console - []
+1. Introduction to C# - [x]
+2. Reading and writing to a console - [x]
 3. C# Built-in data types - []
 4. C# String data type - []
 5. Operators in C# - []
