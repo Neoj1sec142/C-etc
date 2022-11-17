@@ -1,0 +1,15 @@
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/bin/Debug/net6.0/Program
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/bin/Debug/net6.0/Program.deps.json
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/bin/Debug/net6.0/Program.runtimeconfig.json
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/bin/Debug/net6.0/Program.dll
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/bin/Debug/net6.0/Program.pdb
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.csproj.AssemblyReference.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.AssemblyInfoInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.AssemblyInfo.cs
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.csproj.CoreCompileInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.dll
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/refint/Program.dll
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.pdb
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/Program.genruntimeconfig.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program/obj/Debug/net6.0/ref/Program.dll
