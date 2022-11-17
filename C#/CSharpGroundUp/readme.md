@@ -1,10 +1,10 @@
 # C# Course from the Ground Up:
 102 Videos - [Link](https://www.youtube.com/playlist?list=PLAC325451207E3105)
-1. Introduction to C# - [x]
-2. Reading and writing to a console - [x]
-3. C# Built-in data types - [x]
-4. C# String data type - [x]
-5. Operators in C# - []
+1. Introduction to C# - [x]: 1
+2. Reading and writing to a console - [x]: 1
+3. C# Built-in data types - [x]: 2
+4. C# String data type - [x]: 2
+5. Operators in C# - []: 3
 6. Nullable Types in C# - []
 7. Datatype conversions - []
 8. Arrays in C# - []

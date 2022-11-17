@@ -2,7 +2,7 @@
 
 ## To start a new c# app:
 ```s 
-dotnet new console -o Program2 -f net6.0
+dotnet new console -o Program3 -f net6.0
 ```
 ## Run App:
 ```s 
@@ -21,4 +21,8 @@ dotnet run
 * Integral Types - sbyte, byte, short, ushort, int, uint, long, ulong, char (examples below)
 ![Integral types](./assets/intg.png)
 ***    
+### Escape Sequences:
 ![ESC Sequences](./assets/esc.png)
+
+## Assignment Operators:
+![Common Operations](./assets/opt.png)
