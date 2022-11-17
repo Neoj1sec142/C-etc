@@ -26,3 +26,6 @@ dotnet run
 
 ## Assignment Operators:
 ![Common Operations](./assets/opt.png)
+
+## Type Catagories:
+![Type Catagories](./assets/typ.png)
