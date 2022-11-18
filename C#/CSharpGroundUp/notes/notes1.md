@@ -29,3 +29,9 @@ dotnet run
 
 ## Type Catagories:
 ![Type Catagories](./assets/typ.png)
+
+## Implicit and Explicit Conversion:
+![Conversions](./assets/conv.png)
+
+## Difference Betwwen Parse and Try Parse:
+![Parse-TryParse](./assets/prs.png)

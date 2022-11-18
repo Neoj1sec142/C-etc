@@ -58,8 +58,8 @@ class Program3{
         // }
 
         // Null Colessing 
-        int? TicketsOnSale = null;
-        int AvailableTickets = TicketsOnSale ?? 0;
+        // int? TicketsOnSale = null;
+        // int AvailableTickets = TicketsOnSale ?? 0;
         // Instead of 
         // if(TicketsOnSale == null){
         //     AvailableTickets = 0;

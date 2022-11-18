@@ -3,10 +3,10 @@ class Program1
 {
     static void Main(){
         Console.WriteLine("Please enter your first name: ");
-        string FirstName = Console.ReadLine();
+        string? FirstName = Console.ReadLine();
 
         Console.WriteLine("Please enter your last name: ");
-        string LastName = Console.ReadLine();
+        string? LastName = Console.ReadLine();
         
         // Concatenate sting Method
         // Console.WriteLine("Hello " + FirstName + " " + LastName);
