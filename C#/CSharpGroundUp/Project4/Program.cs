@@ -29,6 +29,6 @@ class Program{
         // Parse
         string strNum = "100";
         int i = int.Parse(strNum);
-        Console.WriteLine(i)
+        Console.WriteLine(i);
     }
 }
