@@ -38,3 +38,6 @@ dotnet run
 
 ## Arrays:
 ![Arrays](./assets/array.png)
+
+## Comments: 
+![Comments](./assets/comm.png)
