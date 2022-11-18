@@ -1,0 +1,15 @@
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/bin/Debug/net6.0/Program5
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/bin/Debug/net6.0/Program5.deps.json
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/bin/Debug/net6.0/Program5.runtimeconfig.json
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/bin/Debug/net6.0/Program5.dll
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/bin/Debug/net6.0/Program5.pdb
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.csproj.AssemblyReference.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.AssemblyInfoInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.AssemblyInfo.cs
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.csproj.CoreCompileInputs.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.dll
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/refint/Program5.dll
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.pdb
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/Program5.genruntimeconfig.cache
+/Users/neo/.mine/practice/C-etc/C#/CSharpGroundUp/Program5/obj/Debug/net6.0/ref/Program5.dll

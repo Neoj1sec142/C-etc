@@ -6,7 +6,7 @@
 4. C# String data type - [x]: 2
 5. Operators in C# - [x]: 3
 6. Nullable Types in C# - [x]: 3
-7. Datatype conversions - []
+7. Datatype conversions - [x]: 4
 8. Arrays in C# - []
 9. Comments - []
 10. If statement - []

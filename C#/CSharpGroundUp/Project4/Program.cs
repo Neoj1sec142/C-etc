@@ -16,9 +16,9 @@ class Program{
 
         // Type Cast Operator (Does NOT Round)
         // Also Throws No Exception
-        float f = 123.75F;
-        int i = (int)f;
-        Console.WriteLine(i);
+        // float f = 123.75F;
+        // int i = (int)f;
+        // Console.WriteLine(i);
 
         // Using the Convert class (Does Round Up)
         // Also Throws Exception upon invalid conversion
@@ -27,8 +27,20 @@ class Program{
         // Console.WriteLine(i);
 
         // Parse
-        string strNum = "100";
-        int i = int.Parse(strNum);
+        // string strNum = "100";
+        // int i = int.Parse(strNum);
+        // Console.WriteLine(i);
+
+        // Try Parse
+        string strNum = "100TG";
+        // string strNumProper = "100";
+        int i = 0;
+        bool IsCoversionSuccessfull = int.TryParse(strNum, out i);
+        if(IsCoversionSuccessfull){
+            Console.WriteLine("Success");
+        }else{
+            Console.WriteLine("Fail");
+        }
         Console.WriteLine(i);
     }
 }
