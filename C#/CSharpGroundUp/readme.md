@@ -7,9 +7,9 @@
 5. Operators in C# - [x]: 3
 6. Nullable Types in C# - [x]: 3
 7. Datatype conversions - [x]: 4
-8. Arrays in C# - []
-9. Comments - []
-10. If statement - []
+8. Arrays in C# - [x]: 5
+9. Comments - [x]: Notes
+10. If statement - [x]: 5
 11. Switch statement - []
 12. Switch continued - []
 13. While loop - []
