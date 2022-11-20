@@ -10,8 +10,8 @@
 8. Arrays in C# - [x]: 5
 9. Comments - [x]: Notes
 10. If statement - [x]: 5
-11. Switch statement - []
-12. Switch continued - []
+11. Switch statement - [x]: 6
+12. Switch continued - [x]: 6
 13. While loop - []
 14. Do while loop - []
 15. For & foreach loop - []

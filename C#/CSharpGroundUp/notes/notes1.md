@@ -2,7 +2,7 @@
 
 ## To start a new c# app:
 ```s 
-dotnet new console -o Program5 -f net6.0
+dotnet new console -o Program6 -f net6.0
 ```
 ## Run App:
 ```s 
@@ -41,3 +41,6 @@ dotnet run
 
 ## Comments: 
 ![Comments](./assets/comm.png)
+
+## Switch Statements:
+![breaks](./assets/brk.png)
