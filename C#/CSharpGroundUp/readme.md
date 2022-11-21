@@ -12,8 +12,8 @@
 10. If statement - [x]: 5
 11. Switch statement - [x]: 6
 12. Switch continued - [x]: 6
-13. While loop - []
-14. Do while loop - []
+13. While loop - [x]: 7
+14. Do while loop - [x]: 7
 15. For & foreach loop - []
 16. Methods - []
 17. Method parameters - []
