@@ -2,7 +2,7 @@
 
 ## To start a new c# app:
 ```s 
-dotnet new console -o Program9 -f net6.0
+dotnet new console -o Program10 -f net6.0
 ```
 ## Run App:
 ```s 
@@ -59,3 +59,9 @@ dotnet run
 ![Why Methods?](./assets/whym.png)
 ![Methods](./assets/methods.png)
 ![Static v Instance](./assets/stvin.png)
+![Params v Args](./assets/paramarg.png)
+![Pass By Val or Ref?](./assets/valref.png)
+    - The difference between arguments and parameters
+    is that params are what is required by the method
+    and are only found where you write the method.
+    Where you call the method you pass in arguments.
