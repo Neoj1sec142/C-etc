@@ -15,9 +15,9 @@
 13. While loop - [x]: 7
 14. Do while loop - [x]: 7
 15. For & foreach loop - [x]: 8
-16. Methods - []: 9
-17. Method parameters - []
-18. Namespaces - []
+16. Methods - [x]: 9
+17. Method parameters - [x]: 9
+18. Namespaces - []: 10
 19. Class - Introduction - []
 20. Static & Instance members - []
 21. Inheritance - []

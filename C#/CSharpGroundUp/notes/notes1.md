@@ -65,3 +65,6 @@ dotnet run
     is that params are what is required by the method
     and are only found where you write the method.
     Where you call the method you pass in arguments.
+
+# Namespaces:
+![Why NameSpaces?](./assets/whyname.png)
