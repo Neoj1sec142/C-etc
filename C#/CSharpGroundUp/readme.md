@@ -14,8 +14,8 @@
 12. Switch continued - [x]: 6
 13. While loop - [x]: 7
 14. Do while loop - [x]: 7
-15. For & foreach loop - []
-16. Methods - []
+15. For & foreach loop - [x]: 8
+16. Methods - []: 9
 17. Method parameters - []
 18. Namespaces - []
 19. Class - Introduction - []

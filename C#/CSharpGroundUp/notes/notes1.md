@@ -2,7 +2,7 @@
 
 ## To start a new c# app:
 ```s 
-dotnet new console -o Program8 -f net6.0
+dotnet new console -o Program9 -f net6.0
 ```
 ## Run App:
 ```s 
@@ -54,3 +54,8 @@ dotnet run
 ![For Loops](./assets/for.png)
 ## Foreach Loops:
 ![Foreach Loops](./assets/foreach.png)
+
+# Methods:
+![Why Methods?](./assets/whym.png)
+![Methods](./assets/methods.png)
+![Static v Instance](./assets/stvin.png)
