@@ -1,5 +1,5 @@
 # C# Notes:
-
+[Link](https://www.youtube.com/playlist?list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa)
 ### Basics:
 For Loop:
 ![For Loop](../assets/for.png)     
@@ -26,3 +26,12 @@ Custom Array Functions and Find:
 ![Stringbuilder](../assets/strbuilder.png)      
 ![Methods](../assets/strbuilder2.png)      
 ![Global](../assets/global.png)      
+
+!Conditionals
+![Conditions with &&](../assets/condand.png)
+![Switch-&-goto](../assets/switchgo.png)
+![Not](../assets/not.png)
+![ComparingStrings](../assets/compstr.png)
+![WhileLoop](../assets/while.png)
+![RndGame](../assets/rndgame.png)
+![Exceptions](../assets/exceptions.png)
