@@ -54,5 +54,9 @@ Custom Array Functions and Find:
     be inherited from.
 ![Structs](../assets/struct1.png)          
 
-https://www.youtube.com/watch?v=GAvhe6oe-_4 
-601
+## Classes & OOP:
+![Static Class](../assets/static.png)       
+![Static Class Used](../assets/static2.png)       
+![]()       
+{Classes & OOP L5 13:38 - 19}
+https://www.youtube.com/watch?v=GAvhe6oe-_4
