@@ -47,3 +47,12 @@ Custom Array Functions and Find:
 ### Enums:        
 ![Enums](../assets/enum.png)          
 ![Enums](../assets/enum.png)          
+
+## Structs:
+- Are similar to classes but are contained
+    within a class, therefore they cannot
+    be inherited from.
+![Structs](../assets/struct1.png)          
+
+https://www.youtube.com/watch?v=GAvhe6oe-_4 
+601
