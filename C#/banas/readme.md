@@ -1,9 +1,9 @@
 # Notes for C# from Banas:
 - All projects for the beginning of the tut will be in the same dir. 
 [Link](https://www.youtube.com/playlist?list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa)
-1. - [] - [Tut]      
-2. - [] - [Looping-Arrays]       
-3. - [] - [Conditional-While-Exc]       
+1. - [x] - [Tut]      
+2. - [x] - [Looping-Arrays]       
+3. - [x] - [Conditional-While-Exc]       
 4. - [] - [Methods-Enum]       
 5. - [] - [Classes-OOP]       
 6. - [] - [Contructors-Porperties]       
