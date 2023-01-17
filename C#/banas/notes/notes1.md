@@ -65,3 +65,16 @@ Custom Array Functions and Find:
 ![Definition and Contructors](../assets/cls2.png)      
 ![Setter/Getter Methods](../assets/cls3.png)      
 ![Setter/Getter Properties *](../assets/cls4.png)      
+
+#### Inheritance
+![Delegates](../assets/inh1.png)         
+![Base Class](../assets/inh2.png)         
+![Setter/Getter](../assets/inh3.png)         
+![InnerClass](../assets/inh4.png)         
+![Inherited Class](../assets/inh5.png)         
+![PuttingIt All Together](../assets/inh6.png)         
+
+# Polymorphism:
+![Calling a Class through Subclass](../assets/poly1.png)        
+![Allow Override](../assets/poly2.png)        
+![Delcare to Override](../assets/poly3.png)        
