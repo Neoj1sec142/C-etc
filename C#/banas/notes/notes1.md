@@ -57,6 +57,11 @@ Custom Array Functions and Find:
 ## Classes & OOP:
 ![Static Class](../assets/static.png)       
 ![Static Class Used](../assets/static2.png)       
-![]()       
-{Classes & OOP L5 13:38 - 19}
-https://www.youtube.com/watch?v=GAvhe6oe-_4
+![Static Utility Classes](../assets/stcl1.png)       
+![Static Utility Classes Used](../assets/stcl2.png)       
+![Nullable Types](../assets/null.png)        
+
+![Used in Main](../assets/cls1.png)      
+![Definition and Contructors](../assets/cls2.png)      
+![Setter/Getter Methods](../assets/cls3.png)      
+![Setter/Getter Properties *](../assets/cls4.png)      
