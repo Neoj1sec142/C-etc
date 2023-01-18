@@ -92,3 +92,15 @@ Custom Array Functions and Find:
 ![Rectangle](../assets/abs2.png)       
 ![Circle](../assets/abs3.png)       
 ![Main Program](../assets/abs4.png)       
+
+
+## Interfaces:      
+![Drivable Interface](../assets/int3.png)        
+![Vehicle Class](../assets/int8.png)        
+- Not included with commands, remotes, eledev ^^^
+![Command Interface](../assets/int2.png)        
+![Electronic Device Interface](../assets/int4.png)        
+![PowerButton Class](../assets/int5.png)        
+![Television Class](../assets/int6.png)        
+![TVRemote Class](../assets/int7.png)        
+![Put It Together](../assets/int1.png)        
