@@ -104,3 +104,11 @@ Custom Array Functions and Find:
 ![Television Class](../assets/int6.png)        
 ![TVRemote Class](../assets/int7.png)        
 ![Put It Together](../assets/int1.png)        
+
+# Collections:
+![Regions](../assets/r1.png)      
+    - allow us to collapse our code when it gets long
+![ArrayLists](../assets/r2.png)      
+![Dictionaries](../assets/r3.png)      
+![Queues](../assets/r4.png)      
+![Stacks](../assets/r5.png)      
