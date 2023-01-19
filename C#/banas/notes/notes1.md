@@ -112,3 +112,9 @@ Custom Array Functions and Find:
 ![Dictionaries](../assets/r3.png)      
 ![Queues](../assets/r4.png)      
 ![Stacks](../assets/r5.png)      
+
+## Generics:
+![Generic Class](../assets/g1.png)          
+![Generic Lists](../assets/g2.png)          
+![Generic Structs](../assets/g3.png)          
+![Generic Methods](../assets/g4.png)          
