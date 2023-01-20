@@ -118,3 +118,11 @@ Custom Array Functions and Find:
 ![Generic Lists](../assets/g2.png)          
 ![Generic Structs](../assets/g3.png)          
 ![Generic Methods](../assets/g4.png)          
+
+### LLINQ Extension Methods:
+![Lambda Functions](../assets/ln1.png)        
+![Searching Lists](../assets/ln2.png)        
+![Flip A Coin](../assets/ln3.png)        
+![1-10 Squared](../assets/ln4.png)        
+![Zip List](../assets/ln5.png)        
+![Aggregate](../assets/ln6.png)        
