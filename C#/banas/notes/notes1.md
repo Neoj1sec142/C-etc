@@ -126,3 +126,10 @@ Custom Array Functions and Find:
 ![1-10 Squared](../assets/ln4.png)        
 ![Zip List](../assets/ln5.png)        
 ![Aggregate](../assets/ln6.png)        
+
+### Collections & Overloading:
+![Collection](../assets/col1.png)        
+![Using Collection](../assets/col2.png)        
+![Operator Overloading](../assets/col3.png)        
+![Method Overloading](../assets/col4.png)        
+![Anonomyus Types](../assets/co5.png)        
