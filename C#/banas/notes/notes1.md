@@ -133,3 +133,17 @@ Custom Array Functions and Find:
 ![Operator Overloading](../assets/col3.png)        
 ![Method Overloading](../assets/col4.png)        
 ![Anonomyus Types](../assets/co5.png)        
+
+### Querying Data with LINQ:
+![Owner Class](../assets/q1.png)        
+![Animal Class](../assets/q2.png)        
+![Query Str Array](../assets/q3.png)        
+![Query Int Array](../assets/q4.png)        
+![Query Array List](../assets/q5.png)        
+![Query Collection](../assets/q6.png)   
+### Joins with LINQ:
+![Animal Data](../assets/j1.png)        
+![Owner Data](../assets/j2.png)        
+![Select to Create New Obj](../assets/j3.png)        
+![Inner Join](../assets/j4.png)        
+![Group Join](../assets/j5.png)   
