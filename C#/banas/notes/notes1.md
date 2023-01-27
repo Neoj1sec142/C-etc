@@ -163,5 +163,6 @@ Custom Array Functions and Find:
 ![BinaryReader/Writer](../assets/io5.png)      
 
 ## Serialization:
+![Imports](../assets/ser.png)          
 ![Serializers](../assets/ser1.png)         
 ![Serializers](../assets/ser2.png)         
