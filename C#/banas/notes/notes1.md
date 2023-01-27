@@ -154,3 +154,10 @@ Custom Array Functions and Find:
 ![Lock](../assets/t3.png)       
 ![Lock Used/Misc](../assets/t4.png)       
 ![ThreadData/Lambda](../assets/t5.png)       
+
+## File I/O:
+![Directories](../assets/io1.png)      
+![FileStream](../assets/io2.png)      
+![ByteStream](../assets/io3.png)      
+![StreamReader/Writer](../assets/io4.png)      
+![BinaryReader/Writer](../assets/io5.png)      
