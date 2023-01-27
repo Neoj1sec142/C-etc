@@ -161,3 +161,7 @@ Custom Array Functions and Find:
 ![ByteStream](../assets/io3.png)      
 ![StreamReader/Writer](../assets/io4.png)      
 ![BinaryReader/Writer](../assets/io5.png)      
+
+## Serialization:
+![Serializers](../assets/ser1.png)         
+![Serializers](../assets/ser2.png)         
