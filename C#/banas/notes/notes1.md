@@ -166,3 +166,19 @@ Custom Array Functions and Find:
 ![Imports](../assets/ser.png)          
 ![Serializers](../assets/ser1.png)         
 ![Serializers](../assets/ser2.png)         
+
+
+## WPF / XAML
+![CS-Deps/WIndow](../assets/cs1.png)        
+![Window-Style](../assets/window-style.png)        
+![StackPanel](../assets/stackpanel.png)        
+![Canvas](../assets/canvas.png)        
+![Event Handlers](../assets/eventHandlers.png)        
+![WrapPanel](../assets/wrappanel.png)        
+![Grid-1](../assets/grid1.png)        
+![Grid-2](../assets/grid2.png)        
+![ScrollerView](../assets/scrollerview.png)        
+![txtEditor-1](../assets/txtEditor1.png)        
+![txtEditor-2](../assets/textEditor2.png)        
+![txtEditor-3](../assets/textEditor3.png)        
+![txtEditor-4](../assets/txtEditor4.png)        
